@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Arkin&#39;s Homepage</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on Arkin&#39;s Homepage</description>
+    <title>Posts on Arkin Dharawat</title>
+    <link>http://arkindharawat.me/arkindharawat2.0.github.io/posts/</link>
+    <description>Recent content in Posts on Arkin Dharawat</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Sun, 16 Feb 2020 07:47:57 -0800</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://arkindharawat.me/arkindharawat2.0.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>http://arkindharawat.me/arkindharawat2.0.github.io/posts/my-first-post/</link>
       <pubDate>Sun, 16 Feb 2020 07:47:57 -0800</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>http://arkindharawat.me/arkindharawat2.0.github.io/posts/my-first-post/</guid>
       <description></description>
     </item>
     
